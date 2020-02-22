@@ -10,12 +10,12 @@ user/pass admin/rtcamp123!
 	4. Awesome Weather Widget
 	
 - Js Library:
-	-- select2
-	-- slick
-	-- moment.js
+  - select2
+  - slick
+  - moment.js
 - Css Library
-	-- bootstrap
-	-- slick
+  - bootstrap
+  - slick
 - Explaination:
 	+ I using Awesome Weather Widget that support Search City. If I build it I need registration Google PlaceApi which is required the Credit Card  Number. I don't add Icons like the design because we don't have enough icon for all status weather. So I kept default Icons of plugins.
 	+ The Theme options http://rtcamp.warrennguyen.ga/wp-admin/customize.php?return=%2Fwp-admin%2F
