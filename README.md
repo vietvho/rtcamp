@@ -4,10 +4,10 @@ user/pass admin/rtcamp123!
 
 - Time 18 hours.
 - Plugins: 	
-	1. Awesome Weather Widget
-	2. Feed Them Social - for Twitter feed, Youtube, Pinterest and more -> for showing twitter
-	3. Simple Social Page Widget & Shortcode -> for showing facebook
-	4. Awesome Weather Widget
+	- Awesome Weather Widget
+	- Feed Them Social - for Twitter feed, Youtube, Pinterest and more -> for showing twitter
+	- Simple Social Page Widget & Shortcode -> for showing facebook
+	- Awesome Weather Widget
 	
 - Js Library:
   - select2
