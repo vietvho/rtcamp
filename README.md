@@ -1,6 +1,7 @@
 # rtcamp
 Demo Url: http://rtcamp.warrennguyen.ga
-user/pass admin/rtcamp123!
+
+User/pass admin/rtcamp123!
 
 - Complete in: 18 hours.
 - Plugins: 	
