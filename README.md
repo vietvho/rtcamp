@@ -2,7 +2,7 @@
 Demo Url: http://rtcamp.warrennguyen.ga
 user/pass admin/rtcamp123!
 
-- Time 18 hours.
+- Complete in: 18 hours.
 - Plugins: 	
 	- Awesome Weather Widget
 	- Feed Them Social - for Twitter feed, Youtube, Pinterest and more -> for showing twitter
